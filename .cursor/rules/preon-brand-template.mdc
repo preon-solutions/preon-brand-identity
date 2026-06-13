@@ -1,0 +1,19 @@
+---
+description: Preon brand identity for UI and frontend work. Copy this file into product repos as .cursor/rules/preon-brand.mdc
+globs: "**/*.{tsx,jsx,vue,svelte,css,scss,html,mdx}"
+alwaysApply: false
+---
+
+# Preon Brand (template)
+
+When creating or editing branded UI/copy for Preon, follow the official design system:
+
+- Repo: https://github.com/preon-solutions/preon-brand-identity
+- Visual system: https://raw.githubusercontent.com/preon-solutions/preon-brand-identity/main/visual-system.md
+- Voice: https://raw.githubusercontent.com/preon-solutions/preon-brand-identity/main/voice.md
+
+Defaults: cream background `#F7F4EF`, text `#1C1917`, primary `#7C6FAF`, Source Serif 4 headlines, IBM Plex Mono body/UI.
+
+Use official logo URLs from the repo. Avoid pure black backgrounds, glassmorphism, candy gradients, and startup-flash aesthetics.
+
+For full workflow and asset URLs, use the `preon-brand` skill in the brand-identity repo.
