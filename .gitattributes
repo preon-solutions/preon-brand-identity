@@ -1,0 +1,4 @@
+# Raster exports — keep SVGs in Git for diffs and merges.
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
